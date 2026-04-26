@@ -1,3 +1,3 @@
-# Ralgorithms
+# Rtrials
 
-R编写的数学算法集。
+使用R做的实验集。
